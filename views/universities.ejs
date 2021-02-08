@@ -1,15 +1,19 @@
 <%- include("./partials/header.ejs") %>
  <div class="container">
-    <% if(universities.length){ %> 
-    <h2>These are the following universities for you in <%= country %>:-</h2>
+    <% if(universities.length){ %>
+    <div class="jumbotron"> 
+        <h2>These are the following universities for you in <%= country %>:-</h2>
+    </div>
      <ul>
         <% universities.forEach(function(university){ %>
             <li><strong><%= university %></strong></li>
         <% }) %>
      </ul>
     <% }else{ %>
+        <div class="jumbotron">
             <h2>Sorry there are no universities for you in <%= country %> :(</h2>
-            <h3>Please choose some other country from the list</h3>
+            <h3>Please choose some other country from the list!</h3>
+        </div>
         <% } %>
         <a class="btn btn-info" href="/">Go Back</a>
  </div>
