@@ -13,6 +13,7 @@
     "ejs": "^3.1.6",
     "express": "^4.17.1",
     "express-session": "^1.17.1",
+    "heroku": "^7.47.12",
     "json-loader": "^0.5.7",
     "method-override": "^3.0.0",
     "passport": "^0.4.1",
