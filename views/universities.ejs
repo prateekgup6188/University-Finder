@@ -1,7 +1,7 @@
 <%- include("./partials/header.ejs") %>
  <div class="container">
     <% if(universities.length){ %> 
-    <h2>These are the <%= universities.length %> universities for you in <%= country %>:-</h2>
+    <h2>These are the following universities for you in <%= country %>:-</h2>
      <ul>
         <% universities.forEach(function(university){ %>
             <li><strong><%= university %></strong></li>
