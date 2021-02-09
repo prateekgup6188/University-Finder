@@ -6,7 +6,7 @@
     </div>
      <ul>
         <% universities.forEach(function(university){ %>
-            <li><strong><%= university %></strong></li>
+            <li><strong>Name: <%= university.name %>,  State: <%= university.state?university.state:"NA" %></strong></li>
         <% }) %>
      </ul>
     <% }else{ %>
