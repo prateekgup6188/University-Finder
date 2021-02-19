@@ -4,11 +4,16 @@
     <div class="jumbotron"> 
         <h2>These are the following universities for you in <%= country %>:-</h2>
     </div>
-     <ul>
+     <ol>
         <% universities.forEach(function(university){ %>
-            <li><strong>Name: <%= university.name %>,  State: <%= university.state?university.state:"NA" %></strong></li>
+            <li><strong>
+                Name: <%= university.name %> <br>
+                Webiste: <a href="<%= university.website %>"><%= university.website %></a> <br>
+                State: <%= university.state?university.state:"NA" %>
+            </strong></li>
+            <br>
         <% }) %>
-     </ul>
+     </ol>
     <% }else{ %>
         <div class="jumbotron">
             <h2>Sorry there are no universities for you in <%= country %> :(</h2>

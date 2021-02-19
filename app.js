@@ -19,6 +19,7 @@ ar.map((_,index)=>{
     v.push({
         "Country": ar[index].country,
         "University": ar[index].name,
+        "Website": ar[index].web_pages[0],
         "State": ar[index].stateProvince
     });
     Countries.set(ar[index].country,1);
@@ -40,6 +41,7 @@ app.post('/show',function(req,res){
             universities.push(
             {
                 "name": v[i].University,
+                "website": v[i].Website,
                 "state": v[i].State
             });
         }
