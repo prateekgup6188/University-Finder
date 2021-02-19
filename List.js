@@ -20944,7 +20944,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad NUR",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -20956,7 +20956,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad Adventista de Bolivia",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -20968,7 +20968,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad Autónoma del Beni \"José Ballivián\"",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -20980,7 +20980,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad Autónoma Gabriel René Moreno",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -20992,7 +20992,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad Autónoma Juan Misael Saracho",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -21004,7 +21004,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad Juan Misael Saracho",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -21016,7 +21016,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad Amazonica de Pando",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -21028,7 +21028,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad Andina Simón Bolivar",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -21040,7 +21040,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad Autónoma Tomás Frías",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -21052,7 +21052,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad Católica Boliviana, Cochabamba",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -21064,7 +21064,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad Católica Boliviana, La Paz",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -21076,7 +21076,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad Católica Boliviana, Santa Cruz",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -21088,7 +21088,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad Católica Boliviana, Tarija",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -21100,7 +21100,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad de Aquino Bolivia",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -21112,7 +21112,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad Los Andes",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -21124,7 +21124,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad Mayor de San Andrés",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -21136,7 +21136,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad Mayor de San Simón",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -21148,7 +21148,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad Central",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -21160,7 +21160,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad Privada Franz Tamayo (UNIFRANZ)",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -21172,7 +21172,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad Empresarial Mateo Kuljis",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -21184,7 +21184,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad Privada del Valle",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -21196,7 +21196,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad Nuestra Senora de La Paz",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -21208,7 +21208,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad Nacional Siglo XX Llallagua",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -21220,7 +21220,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad Privada Abierta Latinoamericana",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -21232,7 +21232,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad Privada Boliviana",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -21244,7 +21244,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad Domingo Savio",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -21256,7 +21256,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad Privada de Santa Cruz de la Sierra",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -21268,7 +21268,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad Salesiana de Bolivia",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -21280,7 +21280,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad San Francisco Xavier de Chuquisaca",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -21292,7 +21292,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad San Francisco Xavier",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -21304,7 +21304,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "BO",
 "name": "Universidad Técnica de Oruro",
-"country": "Bolivia, Plurinational State of"
+"country": "Bolivia, Plurinational"
 },
 {
 "domains": [
@@ -79505,7 +79505,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "PS",
 "name": "Arab American University - Jenin",
-"country": "Palestine, State of"
+"country": "Palestine"
 },
 {
 "domains": [
@@ -79517,7 +79517,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "PS",
 "name": "Al-Aqsa University",
-"country": "Palestine, State of"
+"country": "Palestine"
 },
 {
 "domains": [
@@ -79529,7 +79529,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "PS",
 "name": "Al-Azhar University of Gaza",
-"country": "Palestine, State of"
+"country": "Palestine"
 },
 {
 "domains": [
@@ -79541,7 +79541,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "PS",
 "name": "Al-Quds University - The Arab University in Jerusalem",
-"country": "Palestine, State of"
+"country": "Palestine"
 },
 {
 "domains": [
@@ -79553,7 +79553,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "PS",
 "name": "Bethlehem University",
-"country": "Palestine, State of"
+"country": "Palestine"
 },
 {
 "domains": [
@@ -79565,7 +79565,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "PS",
 "name": "Birzeit University",
-"country": "Palestine, State of"
+"country": "Palestine"
 },
 {
 "domains": [
@@ -79577,7 +79577,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "PS",
 "name": "Hebron University",
-"country": "Palestine, State of"
+"country": "Palestine"
 },
 {
 "domains": [
@@ -79589,7 +79589,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "PS",
 "name": "Islamic University of Gaza",
-"country": "Palestine, State of"
+"country": "Palestine"
 },
 {
 "domains": [
@@ -79601,7 +79601,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "PS",
 "name": "An-Najah National University",
-"country": "Palestine, State of"
+"country": "Palestine"
 },
 {
 "domains": [
@@ -79613,7 +79613,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "PS",
 "name": "Palestine Polytechnic University",
-"country": "Palestine, State of"
+"country": "Palestine"
 },
 {
 "domains": [
@@ -79625,7 +79625,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "PS",
 "name": "Palestine Technical College-Dier Elbalah",
-"country": "Palestine, State of"
+"country": "Palestine"
 },
 {
 "domains": [
@@ -79637,7 +79637,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "PS",
 "name": "Palestine Technical University - Kadoorie",
-"country": "Palestine, State of"
+"country": "Palestine"
 },
 {
 "domains": [
@@ -79649,7 +79649,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "PS",
 "name": "Al-Quds Open University",
-"country": "Palestine, State of"
+"country": "Palestine"
 },
 {
 "domains": [
@@ -79661,7 +79661,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "PS",
 "name": "University College of Applied Sciences",
-"country": "Palestine, State of"
+"country": "Palestine"
 },
 {
 "domains": [
@@ -79673,7 +79673,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "PS",
 "name": "Ummah University",
-"country": "Palestine, State of"
+"country": "Palestine"
 },
 {
 "domains": [
@@ -79685,7 +79685,7 @@ var ar=[
 "stateProvince": null,
 "alpha_two_code": "PS",
 "name": "University of Palestine",
-"country": "Palestine, State of"
+"country": "Palestine"
 },
 {
 "domains": [
