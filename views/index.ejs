@@ -10,7 +10,7 @@
                 <label for="country" style="font-size: 2.5rem;"><strong>Choose your desired country:</strong></label>
                 <select name="country" style="font-size: 2rem; margin-left:2%">
                     <% CountryList.forEach(function(country){ %>
-                        <option style="font-size: 2rem;" value=<%=country%> ><strong><%= country %></strong></option>
+                        '<option style="font-size: 2rem;" value="<%=country%>" ><strong><%= country %></strong></option>'
                     <% }) %>                           
                 </select>
                 <input class="btn btn-primary" type="submit">
